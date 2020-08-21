@@ -31,6 +31,14 @@
 ```
 apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/sound.git ; cd sound ; python3 sound.py
 ```
+##  `Aperçue`:
+
+<p align="center">
+<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/sound/blob/master/capture/son1.png"/> 
+<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/sound/blob/master/capture/son2.png"/> 
+<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/sound/blob/master/capture/son3.png"/> 
+</p>
+
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
 
 ## `Retrouvez moi sur` :
